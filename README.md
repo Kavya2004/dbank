@@ -1,6 +1,7 @@
 # dbank
 
-Hi! This is dbank
+Hi! This is dbank - a banking system to help with your daily transactions!
+
 To start working use the following commands:
 ```bash
 cd dbank/
